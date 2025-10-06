@@ -1,2 +1,2 @@
 # ichsanmaulana166.github.io
-POROFOLIO WEB
+PORTOFOLIO WEB

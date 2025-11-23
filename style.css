@@ -86,9 +86,29 @@
   text-align: center;
 }
 
+.download-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: #f7b731;
+  color: #0d0d1a;
+  font-weight: 700;
+  border-radius: 10px;
+  text-decoration: none;
+  box-shadow: 0 6px 20px rgba(247,183,49,0.5);
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  background: #fff;
+  color: #0d0d1a;
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(255,255,255,0.3);
+}
 
     /* CONTACT */
     .contact-links a{color:#f7b731;font-size:1.8rem;margin:0 10px;transition:.3s;}
     .contact-links a:hover{color:#fff;transform:scale(1.2);}
+
 
     footer{padding:20px;text-align:center;background:rgba(0,0,0,.3);font-size:.9rem;}
